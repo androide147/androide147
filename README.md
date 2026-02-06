@@ -11,21 +11,6 @@
   🚀 Estudante | 💻 Desenvolvedor | 🐍 Focado em Python
 </p>
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/andrepereiradev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/andrepereiradev">
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="42"/>
-</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://seu-portfolio.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="42"/>
-  </a>
-</p>
-
 ---
 
 ## 🧩 Sobre mim
@@ -42,10 +27,7 @@ Atualmente, venho me especializando na linguagem por meio de projetos práticos,
 ## 🛠️ Tecnologias & Ferramentas
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<[![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
 </div>
 
