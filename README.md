@@ -43,16 +43,6 @@ Atualmente, venho me especializando na linguagem por meio de projetos práticos,
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=androide147&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=androide147&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 📫 Vamos nos conectar?
 💼 LinkedIn: https://www.linkedin.com/in/andrepereiradev  
 📧 Email: pereira.andre1207@gmail.com
