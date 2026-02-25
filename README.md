@@ -34,8 +34,7 @@ Atualmente, venho me especializando na linguagem por meio de projetos práticos,
 ---
 
 ## 📂 Projetos em Destaque
-🔹 **[api-lista-de-tarefas]
-]((https://github.com/androide147/api-lista-de-tarefas/tree/363162afe18a0394e0cd8a8054bc0951092b9d66/node_modules))**
+🔹 **[api-lista-de-tarefas](https://github.com/androide147/api-lista-de-tarefas/tree/363162afe18a0394e0cd8a8054bc0951092b9d66/node_modules)**
 > Uma lista de tarefas com crud funcional, desenvolvida em react a fim de aprimorar minhas habilidades na linguagem.
 
 🔹 **[Projeto-PI-Fecap](https://github.com/androide147/projeto-fecap-pi/tree/f6c8d765e2a978de2bb99e881a3e50ef96a24d56/Projeto_Full_Stack)**
