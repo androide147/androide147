@@ -34,7 +34,8 @@ Atualmente, venho me especializando na linguagem por meio de projetos práticos,
 ---
 
 ## 📂 Projetos em Destaque
-🔹 **[Nome do Projeto](link)**
+🔹 **[api-lista-de-tarefas]
+]((https://github.com/androide147/api-lista-de-tarefas/tree/363162afe18a0394e0cd8a8054bc0951092b9d66/node_modules))**
 > Breve descrição do projeto, problema resolvido e principal aprendizado.
 
 🔹 **[Nome do Projeto](link)**
